@@ -1,9 +1,9 @@
 {
-    "name": "vsc-military-style",
-    "displayName": "VSC Military Style",
-    "description": "The theme Military Style for the editor Visual Studio Code.",
+    "name": "vsc-military-monokai",
+    "displayName": "VSC Military Monokai",
+    "description": "The theme Military Monokai for the editor Visual Studio Code.",
     "version": "1.0.0",
-    "publisher": "TechnoNinja",
+    "publisher": "ROMAINPC",
     "license": "MIT",
     "icon": "images/icon.png",
     "galleryBanner": {
@@ -11,34 +11,35 @@
         "theme": "dark"
     },
     "author": {
-        "name": "TechnoNinja"
+        "name": "ROMAINPC"
     },
     "repository": {
-		"type": "git",
-		"url": "https://github.com/Evgeny-TechnoNinja/vsc-military-style"
+        "type": "git",
+        "url": "https://github.com/ROMAINPC/vsc-military-monokai"
     },
     "bugs": {
-        "url": "https://github.com/Evgeny-TechnoNinja/vsc-military-style/issues"
-      },
+        "url": "https://github.com/ROMAINPC/vsc-military-monokai/issues"
+    },
     "engines": {
         "vscode": "^1.28.0"
     },
     "keywords": [
-		"theme",
-		"dark",
+        "theme",
+        "dark",
         "dark-green",
         "khaki",
-        "military"
-	],
+        "military",
+        "monokai"
+    ],
     "categories": [
         "Themes"
     ],
     "contributes": {
         "themes": [
             {
-                "label": "VSC Military Style",
+                "label": "VSC Military Monokai",
                 "uiTheme": "vs-dark",
-                "path": "./themes/VSC Military Style-color-theme.json"
+                "path": "./themes/VSCMM-color-theme.json"
             }
         ]
     }
