@@ -1,21 +1,29 @@
-<h1 align="center">Theme for Visual Studio Code editor in Military Style</h1>
+<h1 align="center">Theme for Visual Studio Code editor with Monokai Code and Military Background</h1>
 
-<p>The theme is made mostly in dark green colors. This theme is suitable for developers who work a lot. The “Military Style” theme can protect your eyesight. Install the theme and work calmly.</p>
+<p>This theme is based on the <b>Military Style Theme</b> made by  <b>Evgeny-TechnoNinja</b>
+</br>
+Original repository : <a href="https://github.com/Evgeny-TechnoNinja/vsc-military-style">https://github.com/Evgeny-TechnoNinja/vsc-military-style</a>
+</br>
+I replaced tokens colors with colors from the <b>Default Monokai Theme</b>.
+</br>
+Monokai repository : <a href="https://github.com/microsoft/vscode/tree/main/extensions/theme-monokai">https://github.com/microsoft/vscode/tree/main/extensions/theme-monokai</a>
+</p>
 
-<img src="https://github.com/Evgeny-TechnoNinja/vsc-military-style/raw/master/images/vsc-ms-ss.jpg">
 
-<h3 align="center">Install Theme</h3>
+<img src="https://github.com/ROMAINPC/vsc-military-monokai/raw/master/images/vsc-mm-ss.jpg">
+
+<!-- <h3 align="center">Install Theme</h3>
 <ol>
 <li>In VS Code, open the Color Theme picker with File > Preferences > Color Theme.</li>
 <li>In the list, choose to install additional color themes.</li>
 <li>You are in the Marketplace.</li>
-<li>In the search write the name "vsc military style".</li>
-<li>Select "vsc military style" and install".</li>
+<li>In the search write the name "vsc military monokai".</li>
+<li>Select "vsc military monokai" and install".</li>
 <li>Reload VSCode editor.</li>
 <li>Open up File > Preferences > Color Theme.</li>
-<li>In the list, select "VSC Military Style".</li>
+<li>In the list, select "VSC Military Monokai".</li>
 <li>Enjoy!</li>
-</ol>
+</ol> -->
 
 <h3 align="center">Another way to install this theme.</h3>
 <ol>
