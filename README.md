@@ -12,7 +12,7 @@ Monokai repository : <a href="https://github.com/microsoft/vscode/tree/main/exte
 
 <img src="https://github.com/ROMAINPC/vsc-military-monokai/raw/master/images/vsc-mm-ss.jpg">
 
-<!-- <h3 align="center">Install Theme</h3>
+<h3 align="center">Install Theme</h3>
 <ol>
 <li>In VS Code, open the Color Theme picker with File > Preferences > Color Theme.</li>
 <li>In the list, choose to install additional color themes.</li>
@@ -23,7 +23,7 @@ Monokai repository : <a href="https://github.com/microsoft/vscode/tree/main/exte
 <li>Open up File > Preferences > Color Theme.</li>
 <li>In the list, select "VSC Military Monokai".</li>
 <li>Enjoy!</li>
-</ol> -->
+</ol>
 
 <h3 align="center">Another way to install this theme.</h3>
 <ol>
